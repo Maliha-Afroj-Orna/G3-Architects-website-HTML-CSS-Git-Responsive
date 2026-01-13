@@ -50,6 +50,12 @@
 main > section {
  padding-top: 80px;
 }
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+
 
 
 /*************** main styles ********************/
@@ -108,12 +114,8 @@ main > section {
     gap: 25px;
 }
 .features {
-    margin-left: 50px;
+    margin-left: 70px;
     max-width: 530px;
-}
-.feature-title {
-    font-size: 2.5rem;
-    font-weight: 700;
 }
 .feature-title #quick-list {
     font-weight: 500;
